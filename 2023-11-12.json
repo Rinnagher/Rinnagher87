@@ -1,0 +1,26 @@
+{
+  "name": "Joe Black",
+  "age": 55,
+  "address": {
+    "street": "Dafe Plaza",
+    "city": "Geslusor",
+    "state": "MS",
+    "zip": "55157"
+  },
+  "contact": {
+    "phone": "(316) 835-8135",
+    "servicePhone": "800738939"
+  },
+  "birthday": "1988-11-22T14:20:56.378Z",
+  "ip": "228.132.8.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Es zon ri wanazga ga figav erizok ig mefwu zilage vitahovo abpi wuc vi. Rinu lem guwumucot avitiad colgetdu tiare ifrulki momji cek bomsusun he venwelen. Iwo wun fufibu lomte jin vizez efe tegu cape boveg konbu riwved lola neitubij akupasuh. Anceli evoripi hubroz lu lub ape az sozfabak lotit sisfozha cahmuj rasdi ro luj jatnuul je. Ro abu estab kes ta he miuloah vi ho ze jit wuk sok jolowaj wecud ked vo. Tavit ta wingewoj avesaini tove wamicgid ajives fuzit af la hopja lemtatufi. Gihtiowi uwiceiz sus we vigef dob jih ti jamib ojeecuote jeuza ijebo zovol menjuh let wi va.",
+    "bio": "Necle ejizo kok rinuzna siib etebe paze wadirosun fahbusme hap bup jaud inupe ra jitew. Hihludna zuilu secci bem eb uzpa nisuk egutu lofmulsa umizoji iplac bosfiim ganogu junkeoc aziseh ulicot caunsid dezagkom. Guptegaj azeda kacid atha ovamuw zagi bipaluho imu zepfuc cufpivhe zostiz pucwawaj wek rogvoab koj sujuma lu. Zevku oluca beh oke ci zucte sikbob ze bog fo cuce luwoc nuliro oroonho govzerfe an baptuse. Tem hif mug opu pu otu bore anris ede net kodzis miduv zemturo dimcallit asezig olajope. Felita nuv af ha atculrak wamza becno uksiwel jogoef fauve cederu if alonaig wemekci nimepmo zodetopi. Vijce cesifido kerazer fan kofawus concow fagwa iwpobi fov lagin pokeom lirina mod iz."
+  },
+  "apiKey": "1f8cead790aa7acbd910e82a33ec1719a54b93279db968e9f7621e866843c650",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
