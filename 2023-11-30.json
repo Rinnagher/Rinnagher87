@@ -1,0 +1,26 @@
+{
+  "name": "Ina Pierce",
+  "age": 21,
+  "address": {
+    "street": "Vafog Junction",
+    "city": "Ajeniffug",
+    "state": "VA",
+    "zip": "51754"
+  },
+  "contact": {
+    "phone": "(579) 319-1280",
+    "servicePhone": "800798946"
+  },
+  "birthday": "1979-03-09T23:31:11.037Z",
+  "ip": "202.190.115.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Zum di wonnarlup ti rumunuv mor hahlifif pasirez jo zucgizmeb von nopiv fetev. Cej lep luh jipegu seoh sus fic usrom lajer do tu sinkumnam hoveco uwjivjir pis veb apma genrival. Atjora nagogat sipal enolooke lakaw jejizo gifra rorfovovu le furzozav epeputgod bacez mosen.",
+    "bio": "Zizarpi nu ketozel zunpe muk reufi kularu fohomib votlos wes jub huwwunab domejig. Norci awmu dajgah se hajagaj revsas giffijuk teko tevohu zog seremo uvevijmil lu ulejop densana onevnog. Siriksep ezzuzha ri hakak pacgohi re hiz mi wujciur oj isha pazpu ape cohsab suk wipadag."
+  },
+  "apiKey": "bf671b6092ee7c064b851742390d293093bd1530bbcb8d3d4847fb40f825ab2f",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}
