@@ -1,0 +1,26 @@
+{
+  "name": "Juan Mason",
+  "age": 60,
+  "address": {
+    "street": "Goot Mill",
+    "city": "Cujligbo",
+    "state": "NH",
+    "zip": "65743"
+  },
+  "contact": {
+    "phone": "(835) 584-2418",
+    "servicePhone": "800732692"
+  },
+  "birthday": "1972-11-25T08:17:50.220Z",
+  "ip": "82.235.123.95",
+  "foo": "bar",
+  "profile": {
+    "about": "Huz anu voca laluw suruek afaabu icido ra wetluuv petwelil odda won nagza elcu latsewug tol pusofu ufeabaop. In feppip dadtife ocevo peap fe dadhewon sefavot no se koviaw pip cegsi noisokad. Savo opozir pudme wenkadce ugiajwip ulaap denbo kire afcid dec sawalce co odugir cev ettura. Wic dow mopov kurlafka mib wuufnal rezte ranota ewafehpe koj wo sel ugmoga nu ec zow lopo. Ozofo irih ivanu mu tu diva timot man hutovmaw liw okmoc wugte deve. Ga jewba mitbil giz judahez paafozu ob kalopa esu ujiilni zammi goh dimuvcar omoca kidtura.",
+    "bio": "Zog cittuecu cecaw sofegdav fadrar etfe tireuto pus keg cot juf zol pa dozha lejmi siba vecan. Neaf upepeami waleibo jeru pihbi gipudome kijomta munaho se gauwcoc cikis ji ecu div ba gecaulo foj. Er ob cenokter mik luir ligaici desem vuupauw tuptiston uti ahmitvuj azidifah ho nutfegig mawog. Kipnap pi kihso me cilti ov jeve lur afiguvfo beegiuv miakugu huzeah cotuwsuj ulike ho sadfuv pudewu. He sihjaso tazaj otiru puvobic po egaguz em ufawovrub amlo sirdaur zedo viren. Otatubez kel umi dezow tih ju ripraj divi co ageeflot bamud vedefudu kugguwi mu. Bicfa telodaw tihokuab usemic zospaafo ekdisiso armetug omcozis ibo cuware cijetru lalur pel ugaavo we wif."
+  },
+  "apiKey": "72ba7e009c1624e18e515d7af197c00a861d916006a639903df7229b9a431bde",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
