@@ -1,0 +1,26 @@
+{
+  "name": "Tyler Hines",
+  "age": 47,
+  "address": {
+    "street": "Ojco Way",
+    "city": "Ecejaeko",
+    "state": "OK",
+    "zip": "71074"
+  },
+  "contact": {
+    "phone": "(222) 915-3359",
+    "servicePhone": "800122688"
+  },
+  "birthday": "1992-08-01T03:39:48.515Z",
+  "ip": "108.0.176.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Ot bi hirajew fuhar fodbad nul sunzehew hukfosse ufevevno olape jap hohucape. Bisapeta ja ceverovik tofakdul ava wefohpe poklec banasduc kahoc esean lonawo ladhiuju tez wis. Kidfiw azu er cimi wikwu zo kofhit fe goagujot selca ajamepkeb gaga. Giok kodjo vorop jeerato wu efi zefub wof jek un uja soz nod levojem fad levib pawab wado. Pojzi zebeiw ti wohav dijobasi gisi zorov kon vipjucif tot jegco cecir wo ko.",
+    "bio": "Vudhul hait moc zijzuka fo uruvafbe gijro tig tijenaj lu up tum ka agohe afir jedritde aci. Novgo jaj pu nuusi guzebon ka fo abpocra kintaoci huske biz vifpi. Naom epaelo daswo wemen nuguvho ruip siji azsucif ofurad azedon as nuramu suag vihe."
+  },
+  "apiKey": "b50004f8aa791a73cc4b3e9f235fd7da005fd31f624ca5b5f4406e08bdbf5746",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
