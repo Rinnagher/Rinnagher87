@@ -1,0 +1,26 @@
+{
+  "name": "Rhoda Singleton",
+  "age": 27,
+  "address": {
+    "street": "Pernu Square",
+    "city": "Bobisoel",
+    "state": "CA",
+    "zip": "08168"
+  },
+  "contact": {
+    "phone": "(952) 893-9347",
+    "servicePhone": "800163849"
+  },
+  "birthday": "1988-07-24T17:32:50.414Z",
+  "ip": "213.242.226.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Ke lownudpok gopag lacmizled ramgop uroaga wo wuvo laizi etaluh zufwac muveda walub kat. Eh pabemru juf lelsoc nig hi gepi oseeti kupelpag soju pumupip behefaz zifmesu. Edseldov zeaj suwe ojri kehdov jo ju hu luhogor co ku ded.",
+    "bio": "Tijafuk kadmakul fawuv la jetduwin no nehgevhoc ligma apoban nu wuuciama te roduwfad ajato tibako du tazcuhnik mulgew. Riv ebojag iwzeru uhniblep zohbike fozawte la gehva if ho mukbu te. Banlima nab eg ogakop jit binaljem usjebi jovigap zok roj da kibcudaf guzeic vutole re vikve uv wuv."
+  },
+  "apiKey": "5278bfbfb235f7e2b0ee25d45f5333b242c7d7087139c819c1bba684ae759dfd",
+  "currency": {
+    "code": "IDR",
+    "name": "Indonesia Rupiah"
+  }
+}
