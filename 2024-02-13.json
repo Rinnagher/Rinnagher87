@@ -1,0 +1,26 @@
+{
+  "name": "Gertrude Johnson",
+  "age": 43,
+  "address": {
+    "street": "Kamon Boulevard",
+    "city": "Huvhiho",
+    "state": "SD",
+    "zip": "00780"
+  },
+  "contact": {
+    "phone": "(763) 537-8023",
+    "servicePhone": "800989223"
+  },
+  "birthday": "1960-08-23T20:36:28.213Z",
+  "ip": "123.235.27.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Zij ze icpuwku lipat umoz zubnauzu muuwko uhavi ejnu jabtokwa iwcive vucefu. Isomo gidakhu go macro he sab jolker zaho neniwifu loluv ebacu tuobluk. Decfemwe lepde ehe ikobsab vukazuh eticohwec raeso forbanul dezatve ca caspu zo tel. Inago sugit kadjuane curvi sa wezuso na cefuseje karzaopo sidohica ra runow vo devlijef cuteta mak boidasan lilgu.",
+    "bio": "Jac gesedve kuloun tuhape etu sef ihamenek zanged alowivkab giumsef ejles kim pungapfo. Ze siha zeupnub zek kumpim uwlipe huazido jec wuvul apjace infuh jazle hoh ke ifi el bi cohap. Otijijcu dun likpi lobijtuz wuffeg rezfo ruhos gumite em cu sicehan dofpidedu wen pelbo."
+  },
+  "apiKey": "ab1c8c1ae0b5ea637401c3eeb18fcbdd6b4494ff22e72599617526bf2fb100e6",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
