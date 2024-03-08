@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Chandler",
+  "age": 47,
+  "address": {
+    "street": "Wohu Grove",
+    "city": "Hudlokab",
+    "state": "RI",
+    "zip": "81417"
+  },
+  "contact": {
+    "phone": "(362) 396-5711",
+    "servicePhone": "800149385"
+  },
+  "birthday": "1974-06-29T13:44:16.529Z",
+  "ip": "133.213.245.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Duf vis mudhojov relzus ab gufbacmu famovu eci icjo lupimjom bam mot vizuhos mufep pa. Abnogogo nuvwabcoc cizmo hoifver si borar ledib sazwujdah afsehul ba bogwel woznos etecu iboji. Famobanif jed rigi weheku lahtah mefcovik divla ato cori fiwkuk viareel walzo rovripvi vuicdih sav rifmiti.",
+    "bio": "Kabgiw jeri ofi datjuz ul ojirebuf tevku cu zosaztas nifo vannas sob fonas hudiko judaac difefo ege. Fo ma isoijo ufguam ewnogis sez imfav adija sohzem sekiggi lid abu zabizuna. Zowciruk ju erkeor jusospa woc tiba giwo jufpus sejepowu enlocmo cin komamib kaginsoc ruf fepzak."
+  },
+  "apiKey": "11fc28cece1355f0444e4d2f74828a6e7b375b2327ccbaf24ff9f641eb840435",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
