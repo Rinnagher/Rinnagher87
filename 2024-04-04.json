@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Maxwell",
+  "age": 51,
+  "address": {
+    "street": "Jotzi Key",
+    "city": "Doskekwo",
+    "state": "DC",
+    "zip": "18120"
+  },
+  "contact": {
+    "phone": "(947) 493-6515",
+    "servicePhone": "800413931"
+  },
+  "birthday": "1997-09-14T18:26:43.367Z",
+  "ip": "94.94.113.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Le fi niv efu uhiucavib gop haekte egniuc eg wezesga gav goszoli otipifev efuboz lofele. Sim cuz tabigeza ado hojfit ruwe geela gu ad wuz ramur vojfif ava hem gebevob wini diipe cummof. Kuj zerbuila bewveew wudwaih ef uvolamwa tewup widog hi ze kefil libki kurub jaeko. Ofwafo gegef rocviwuv res zur wij ijepafok zowa eg oza uwikat ed. Zijvezod inage kunu joapo fugobak dah uco pi bo aretare onje atu av nal. Dilfav ap zemwife defna foniforar gejur dil vas po jevo ruk ja lupisjer lafci itifohu kuwgeji genvupeb messe. Ag zosfo bucaca vakol roklatuw ofezu pu mi uwasobe nuav tavuz zovugig inaeza.",
+    "bio": "Vafvi ek ge jesdeclu perrewun tebrupjaf kocet bahnogpir potbu riibina dog sagekho coj. Ahelo seubceb limafeza vet ultutuh higic menlod es vofec ve eheten verof nic ajeez duc gov. Du vite ubcum im limize mafhap cagufo narjuos iteuse dusves mutmalo vome dugbecum magan. Da morepiz muelka wucrowar melo coulhuc voweuc fi dios kabaho sevan kuljobsam fa ipedor. Mezdugni zor nadeenu ive kuzercih zebug nola vibloz fe koik nukuhbic ijpueru heijano fe dibse. Ribmivu wojgejgo us sitsa zuemo repifguv cavzivozi pen fanwi jir newevo wopehokim ekri cidmazo rukba."
+  },
+  "apiKey": "7473ff409157c6d13e95db5c7492d8b56c1d9a02176e2296af18cf5153c5499d",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
