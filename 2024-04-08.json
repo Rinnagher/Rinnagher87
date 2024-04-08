@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Foster",
+  "age": 25,
+  "address": {
+    "street": "Sanwe Street",
+    "city": "Pebcugjaj",
+    "state": "WA",
+    "zip": "91682"
+  },
+  "contact": {
+    "phone": "(416) 648-4715",
+    "servicePhone": "800576857"
+  },
+  "birthday": "1996-09-17T19:14:14.373Z",
+  "ip": "99.201.247.211",
+  "foo": "bar",
+  "profile": {
+    "about": "Ino hiuzu lilgadeg ikuube hejder jizatedu igujibep beblaj tup dunguzpu lebgi zuwciz za. Etocep don ra rulaje zuhtaj nakazle pabe zup oje huru vagi levzowav kaviwodim. Roenumej fiketa cimha buz hodhajih bapninrut wohra bov notbe ma wutjodok weazajaz gafili te. Ziku kih dotvilu wafora utaev wosweso wavwip zanekafu douc dog pa haf hacoko ertesrag tof rum hu.",
+    "bio": "Zol fuwam dici jubgi ovibuba gulibosup rilli detni lo agpa vomiwpol osohorlut. Apmege hav egevaf kuj po ah hiukalil retattah hiufi vujeluf zic kokmuup ipidiuko zubrobas cekopeju cubucak tuctunadi. Ebta ik donef su ig fib fivrik leritumoc co vergathok biszaoje tupafolo kiwhaak efupod lupobdu."
+  },
+  "apiKey": "b4e40b8558b41b229855ce63e5400d815fda9818c519c5c6ec6ad29ff2ba1ce9",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
