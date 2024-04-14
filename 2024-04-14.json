@@ -1,0 +1,26 @@
+{
+  "name": "Edgar Farmer",
+  "age": 39,
+  "address": {
+    "street": "Vokag Turnpike",
+    "city": "Dawkinvo",
+    "state": "KY",
+    "zip": "69263"
+  },
+  "contact": {
+    "phone": "(679) 250-7663",
+    "servicePhone": "800387138"
+  },
+  "birthday": "1984-09-17T02:36:42.905Z",
+  "ip": "25.198.211.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Repe diagi jigfiwej ritsafde nucser dagi rioru ujrow nonaepi rekevce mero kit negiw nag suwuked eh vuwupim. Ruj sogjiba caswollis vo comhojowo kolweza nicdighez ra unuvi ebme mekos ta rakivral. Rilewguc zios ih cizisfo tis dufeduz docfi ofitomaw jo tofa ipe deve wih kehhi rigukboc. Jokov ha edu olunota jicrizmo len hatceeg askik fivhic valug hudjuele ni rimse fitej lached. Cucip bewvi urpirop capsi jef hadgi di wahrafos neogi imko aju ji zaac fu pilfo. Zolu fuodi umnomeh ucete norvimi ovese no cieza suojrub rivipwe di joczelec ho. Oha izifo kawko lednipgo ufohpar obi vekso ubata pehid ofmoc hamtu owi.",
+    "bio": "Buizuiv im du rebiw mubmo ruclef ewjo veehi sinsa veceb nada itotugop zufez pezpot cepvu. Gelaj ahe ikdiune hahgunug fetowuv josno na fu eravepih fec po kobo uvpi cufali ledse cewab. Kef poceh pa ja fi zunirof af gogag og pus poazi wiki zuf pe gip."
+  },
+  "apiKey": "85c42ad31ac6f2c26a2417a988d2b74a35c7725e9036d79c6ad0c0557c0fd12e",
+  "currency": {
+    "code": "BTN",
+    "name": "Bhutan Ngultrum"
+  }
+}
